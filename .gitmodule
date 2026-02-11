@@ -1,4 +1,4 @@
 [submodule "lib/libreria-seguridad"]
     path = lib/libreria-seguridad
     url = https://github.com/usuario/seguridad-core.git
-    branch = main
+    branch = master
